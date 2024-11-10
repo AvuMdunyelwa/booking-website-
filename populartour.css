@@ -19,7 +19,7 @@ body {
 
 .tours_main_page {
     margin: 0;
-    height: 190vh;
+    height: 100%;
     display: block;
 
     
@@ -37,7 +37,7 @@ body {
     background-image: url(items/pexels-jimmy-teoh-294331-1010657.jpg);
     background-position: center;
     background-size: cover;
-    height: 60vh;
+    height: 100%;
     border-radius: 25px;
     border: 1px solid black;
 
@@ -54,7 +54,7 @@ body {
     background-image: url(items/pexels-pixabay-38238.jpg);
     background-position: center;
     background-size: cover;
-    height: 60vh;
+    height: 100%;
     margin-top: 1.4rem;
     border-radius: 25px;
     border: 1px solid black;
@@ -188,7 +188,7 @@ body {
     height: 30vh;
     margin: 0;
     position: fixed;
-    top: 57%;
+    top: 45%;
     transition: 1s ease-in-out;
 
     ul {
@@ -213,6 +213,8 @@ body {
 .off-screen-menu-2.active {
     right: 0;
 }
+
+
 
 .ham_menu {
     margin-left: 0;
